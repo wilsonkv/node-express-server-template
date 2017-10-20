@@ -1,0 +1,36 @@
+{
+  "errorMessages": [
+    {
+      "code": "1001",
+      "errorMessage": "The application has encountered an error."
+    },
+    {
+      "code": "1004",
+      "errorMessage": "Unable to connect to database server."
+    },
+    {
+      "code": "1006",
+      "errorMessage": "Authentication failed. Please login again."
+    },
+    {
+      "code": "1008",
+      "errorMessage": "Page number is invalid."
+    },
+    {
+      "code": "1009",
+      "errorMessage": "Page size  is invalid."
+    },
+    {
+      "code": "1011",
+      "errorMessage": "No Data found."
+    },
+    {
+      "code": "1012",
+      "errorMessage": "Invalid parameter."
+    },
+    {
+      "code": "1014",
+      "errorMessage": "Authorization failed."
+    }
+  ]
+}
